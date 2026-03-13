@@ -1,49 +1,78 @@
-<h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Harsh shukla </h1>
-<h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology, Lucknow! </h3>
+# 👋 Hi, I'm Harsh Shukla
+ 
+**| Competitive Programmer | Full stack-Developer**
+
+I am a final-year Computer Science undergraduate at **IET Lucknow**, deeply interested in **backend engineering**, **scalable systems**, and **problem-solving at scale**.  
+
+I enjoy working close to the system level — writing clean, maintainable code, understanding how things work under the hood, and solving challenging algorithmic problems.
 
 ---
-<h2 align="center">Languages</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px">
-<!--   <img src="fab fa-java' style='font-size:48px;color:red'" alt="Java" /> -->
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-<h2 align="center">Database</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-<h2 align="center">Integrated Development Environments</h2>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/> 
-  </a>
-  <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime"/> 
-  </a>
-</p>
-<h2 align="center">Competitive Programming</h2>
-<p align="center"> 
-  <a href="https://www.codechef.com/users/har_2o3_22" target="_blank">
-    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef"/> 
-  </a>
-  <a href="https://codeforces.com/profile/HaRsH_sHUKlA-" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
-  </a>
-  <a href="https://leetcode.com/u/HaRsH__ShuKLa/" target="_blank">
-    <img src="https://icons.coreui.io/icons/brand/leetcode/" alt="Leetcode"/> 
-  </a>
-</p>  
+
+## 🎓 Education
+
+**Institute of Engineering and Technology, Lucknow**  
+**B.Tech in Computer Science & Engineering** (2022 – 2026)  
+- GPA: **8.35 / 10**
+- Relevant Coursework:  
+
+  - Data Structures & Algorithms  
+  - Object-Oriented Programming  
+  - Operating Systems  
+  - Computer Networks  
+  - Database Management Systems  
+  - Software Engineering  
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+- Java, C++, Python, JavaScript, SQL
+
+### **Backend & Databases**
+-  Node.js, Express.js  
+- PostgreSQL, MongoDB
+
+### **Frontend & Web**
+- React.js, HTML, CSS, Tailwind CSS  
+- Socket.IO (real-time communication)
+
+### **Engineering & Tools**
+- Low-Level Design
+- Multithreading
+- High Level Design
+- Git & GitHub
+- Maven, Postman
+- JWT Authentication
+- CI/CD Pipelines
+
+---
+## 🏆 Competitive Programming & Achievements
+
+- **Codeforces**
+  - **Specialist** (Max Rating: **1594**)
+  - Rank **777** in 	Educational Codeforces Round 187 among 20,000+ participants
+
+- **LeetCode**
+  - **Knight** (Max Rating: **2098**)
+  - Top **1.85%** globally
+  - Global Rank **165** in weekly Contest 438
+
+- **CodeChef**
+  - **3-Star** (Max Rating: **1702**)
+  - Global Rank **187** in Starters 227 (Div. 2)
+
+- **AtCoder**
+  - **Cyan (7-Kyu)** — Max Rating: 442
+  - Global Rank **1650** in ABC 440
 
 
-<h2 align = "center"> 📫 Reach me on 📫 </h2>
-<p align = "center"> 
-  <a  href = "https://www.linkedin.com/in/harsh-shukla-a83b3b231/" target = "_blank"> 
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "altf4" />
-  </a>
-  <a href = "mailto:shuklaharsh9752@gmail.com" target = "_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "alt" />
-  </a>
-</p>
+- Solved **1200+** problems across competitive programming platforms.
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** shuklaharsh9752@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/harsh-shukla-a83b3b231/
+- **GitHub:** https://github.com/har-2oc4-22 
+
+---
